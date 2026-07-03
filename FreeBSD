@@ -1,0 +1,2 @@
+#change homedirectory without loosing ACL
+sudo pw usermod u.name -d /mnt/cat2 -m
